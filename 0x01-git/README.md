@@ -1,3 +1,1 @@
-My second commit
-this is the new update to my project.
-
+My second commit updated
